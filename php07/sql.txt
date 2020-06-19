@@ -1,0 +1,1 @@
+INSERT INTO gs_an_table(name, email, naiyou, age, indate)VALUES('木村','test5@test.jp','TEST5', 20, sysdate())
